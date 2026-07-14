@@ -1,0 +1,10 @@
+# 大文件（需自行下载）
+ffmpeg.exe
+aria2c.exe
+N_m3u8DL-RE.exe
+
+# 日志
+Logs/
+
+# 临时文件
+*.tmp
